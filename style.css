@@ -1,0 +1,18 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background-color: #eaf6f6;
+  color: #003366;
+}
+h1, h2, h3 {
+  color: #006666;
+}
+ul {
+  list-style-type: square;
+  padding-left: 1.2rem;
+}
+strong {
+  color: #cc0000;
+}
